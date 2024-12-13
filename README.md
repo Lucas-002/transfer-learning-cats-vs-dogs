@@ -41,7 +41,7 @@ O modelo foi treinado por 10 épocas com os seguintes resultados na validação:
 
 Abaixo estão os gráficos de perda e acurácia durante o treinamento:
 
-![Gráficos]("C:\Users\Ghost\Pictures\Screenshots\Captura de tela 2024-12-13 103234.png")
+![Gráficos](img/Captura de tela 2024-12-13 103234.png)
 
 ## Como Executar o Código
 

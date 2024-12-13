@@ -41,7 +41,8 @@ O modelo foi treinado por 10 épocas com os seguintes resultados na validação:
 
 Abaixo estão os gráficos de perda e acurácia durante o treinamento:
 
-![Gráficos](img/Captura de tela 2024-12-13 103234.png)
+![Gráficos](https://github.com/Lucas-002/transfer-learning-cats-vs-dogs/commit/860f1c423c0619119b6eb6c7cfb1fbbd9e1b1307#diff-304bf95d40abe73d03a20f785664eb40f8b4e61ca498de2a283abe1125ec3b00)
+
 
 ## Como Executar o Código
 
